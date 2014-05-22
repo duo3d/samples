@@ -47,7 +47,7 @@ Here are the key libraries you will interact when working with the SDK:
 ##Compilation
 
 
-We use the cross platform [CMake](//cmake.org) tool to generate IDE/compiler specific projects. To compile the samples you will need to install the [latest CMake](http://cmake.org/cmake/resources/software.html) and use either the command line or GUI to configure and generate the projects. We also provide examples that use OpenCV which you can download from [their website](//opencv.org). If you wish to bypass the OpenCV install simply remove Sample-06 from the CMakeLists.txt before generating your build files.
+We use the cross platform [CMake](http://make.org) tool to generate IDE/compiler specific projects. To compile the samples you will need to install the [latest CMake](http://cmake.org/cmake/resources/software.html) and use either the command line or GUI to configure and generate the projects. We also provide examples that use OpenCV which you can download from [their website](http://opencv.org). If you wish to bypass the OpenCV install simply remove Sample-06 from the CMakeLists.txt before generating your build files.
 
 ----------------
 
@@ -188,14 +188,3 @@ Included with the SDK are several examples to help developers get started. We wi
 </pre>		
 	
 --------------------------------
-						
-<div class="page-break"></div>						
-
-##Resources
-
-###Related
-
-* [DUO API](api)
-* [DUO Developers](../developers)
-* [DUO Devices](../devices)
-* [DUO Downloads](../downloads)
