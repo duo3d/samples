@@ -7,8 +7,6 @@
 
 ##Overview
 
---------------------------------
-
 The DUO SDK provides APIs, examples and tooling for working with multi-view vision systems. Built on elegant image processing algorithms which leverage the latest technologies from Intel/AMD (SSE, AVX) and parallel computing methods. This is a highly optimized architecture for image acquisition and processing. DUO Developers can leverage this framework to build and deploy their own applications.
 
 These samples require the latest SDK from http://duo3d.com/downloads
@@ -18,8 +16,6 @@ These samples require the latest SDK from http://duo3d.com/downloads
 
 
 ###Features
-
---------------------------------
 
 * Pure C API
 * C++/OpenCV Samples
@@ -50,14 +46,13 @@ Here are the key libraries you will interact when working with the SDK:
 
 ##Compilation
 
---------------------------------
 
 We use the cross platform [CMake](//cmake.org) tool to generate IDE/compiler specific projects. To compile the samples you will need to install the [latest CMake](http://cmake.org/cmake/resources/software.html) and use either the command line or GUI to configure and generate the projects. We also provide examples that use OpenCV which you can download from [their website](//opencv.org). If you wish to bypass the OpenCV install simply remove Sample-06 from the CMakeLists.txt before generating your build files.
 
 ----------------
 
 ####Build Environment
-------------------
+
 
 **Windows:**
 
@@ -95,7 +90,7 @@ We use the cross platform [CMake](//cmake.org) tool to generate IDE/compiler spe
 
 ####Building the Samples
 
-----------------
+
 We provide a build script in the samples directory which you can run to quickly generate the sample binaries. The executable files will be generated in the bin folder. You can also use Cmake to generate for specific IDE/compiler such as Visual Studio/XCode/etc.
 
 **Windows:**
@@ -113,7 +108,7 @@ In terminal type: `sh ./BuildAll.sh`
 
 ##Samples
 
---------------------------------
+
 
 Included with the SDK are several examples to help developers get started. We will also publish more here as we update.
 
@@ -147,7 +142,6 @@ Included with the SDK are several examples to help developers get started. We wi
 
 ##Structure
 
---------------------------------
 
 <pre class="prettyprint">
 	%DUO_PATH%
@@ -198,8 +192,6 @@ Included with the SDK are several examples to help developers get started. We wi
 <div class="page-break"></div>						
 
 ##Resources
-
---------------------------------
 
 ###Related
 
