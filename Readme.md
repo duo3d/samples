@@ -161,11 +161,11 @@ Included with the SDK are several examples to help developers get started. We wi
 				|   |   
 				|   +---bin
 				|   |       DUOLib.dll		// DUO Shared Library (Windows)
-				|   |       libduo.so		 // DUO Shared Library (Linux)
-				|   |       libduo.dylib	  // DUO Shared Library (OSX)
+				|   |       libduo.so		// DUO Shared Library (Linux)
+				|   |       libduo.dylib	// DUO Shared Library (OSX)
 				|   |       
 				|   +---include
-				|   |       DUOLib.h		  // DUO Header Include
+				|   |       DUOLib.h		// DUO Header Include
 				|   |       
 				|   \---lib
 				|           DUOLib.lib		// DUO Library
