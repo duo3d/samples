@@ -1,9 +1,9 @@
 <center>
-<img src="http://duo3d.com/img/800-200-CCCCCC" width='100%' class="img-responsive" style="max-width:1000px;display:none"/>
+<img src="http://duo3d.com/img/800-200-CCCCCC-duo" width='100%' class="img-responsive" style="max-width:1000px;display:none"/>
 </center>
 
 
-<span style="float:right;font-size:10px;color:#fd6d6d"><i></i><i class="fa fa-warning"></i>&nbsp;&nbsp;Developer Preview - This may change with updates.</span>
+<span style="float:right;font-size:10px;color:#fd6d6d"><i></i><i class="fa fa-warning"></i>&nbsp;&nbsp;DUO3D-SDK-v0.5.6.0 Preview - This may change with updates.</span>
 
 ##Overview
 
