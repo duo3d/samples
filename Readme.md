@@ -11,6 +11,7 @@
 
 The DUO SDK provides APIs, examples and tooling for working with multi-view vision systems. Built on elegant image processing algorithms which leverage the latest technologies from Intel/AMD (SSE, AVX) and parallel computing methods. This is a highly optimized architecture for image acquisition and processing. DUO Developers can leverage this framework to build and deploy their own applications.
 
+These samples require the latest SDK from http://duo3d.com/downloads
 --------------------------------
 
 
@@ -19,8 +20,8 @@ The DUO SDK provides APIs, examples and tooling for working with multi-view visi
 
 --------------------------------
 
-* [Pure C API](api)
-* [C++ Samples](samples)
+* Pure C API
+* C++/OpenCV Samples
 * 100% Cross Platform
 * Pre-compiled solutions 
 * Optional Qt5 Integration
@@ -40,7 +41,7 @@ Here are the key libraries you will interact when working with the SDK:
 
 --------------------------------
 
-* **DUOLib** - The [DUO API](api) provides low level access to the device allowing for control, configuration and device information.
+* **DUOLib** - The DUO API provides low level access to the device allowing for control, configuration and device information.
 
 --------------------------------
 
