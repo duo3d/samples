@@ -174,8 +174,6 @@ Included with the SDK are several examples to help developers get started. We wi
 					|   
 					+---CMakeLists.txt
 				    +---bin
-				    +---include
-				    +---lib
 					|       
 					+---Sample-01
 					|		Sample.h
