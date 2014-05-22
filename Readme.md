@@ -1,5 +1,5 @@
 <center>
-<img src="http://duo3d.com/img/800-200-CCCCCC-duo" width='100%' class="img-responsive" style="max-width:1000px;display:none"/>
+<img src="http://duo3d.com/img/800-200-222222-duo3d" width='100%' class="img-responsive" style="max-width:1000px;display:none"/>
 </center>
 
 
