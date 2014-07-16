@@ -3,7 +3,7 @@
 </center>
 
 
-<span style="float:right;font-size:10px;color:#fd6d6d"><i></i><i class="fa fa-warning"></i>&nbsp;&nbsp;DUO3D-SDK-v0.5.6.0 Preview - This may change with updates.</span>
+<span style="float:right;font-size:10px;color:#fd6d6d"><i></i><i class="fa fa-warning"></i>&nbsp;&nbsp;DUO3D-SDK-v0.5.6.0 Preview - This may change with updates, please make sure to use the latest examples shipped with our SDK as our build environment is activly updated.</span>
 
 ##Overview
 
