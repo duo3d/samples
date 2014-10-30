@@ -3,7 +3,9 @@
 </center>
 
 
-<span style="float:right;font-size:10px;color:#fd6d6d"><i></i><i class="fa fa-warning"></i>&nbsp;&nbsp;DUO3D-SDK-0.5.7.22 - This may change with updates, please make sure to use the latest examples shipped with our SDK as our build environment is actively updated.</span>
+<span style="float:right;font-size:10px;color:#fd6d6d"><i></i><i class="fa fa-warning"></i>
+
+DUO3D-SDK - This may change with updates, please make sure to use the latest examples shipped with our SDK as our build environment is actively updated.</span>
 
 ##Overview
 
