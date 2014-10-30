@@ -1,0 +1,3 @@
+# Copy this file to /etc/udev/rules.d/ directory.
+SUBSYSTEMS=="usb",ATTRS{idVendor}=="04b4",ATTRS{idProduct}=="a1e0",MODE="0666"
+SUBSYSTEMS=="usb",ATTRS{idVendor}=="c0de",ATTRS{idProduct}=="a1e0",MODE="0666"

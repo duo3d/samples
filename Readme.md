@@ -3,13 +3,13 @@
 </center>
 
 
-<span style="float:right;font-size:10px;color:#fd6d6d"><i></i><i class="fa fa-warning"></i>&nbsp;&nbsp;DUO3D-SDK-v0.5.6.0 Preview - This may change with updates, please make sure to use the latest examples shipped with our SDK as our build environment is activly updated.</span>
+<span style="float:right;font-size:10px;color:#fd6d6d"><i></i><i class="fa fa-warning"></i>&nbsp;&nbsp;DUO3D-SDK-v0.5.6.0 Preview - This may change with updates, please make sure to use the latest examples shipped with our SDK as our build environment is actively updated.</span>
 
 ##Overview
 
 The DUO SDK provides APIs, examples and tooling for working with multi-view vision systems. Built on elegant image processing algorithms which leverage the latest technologies from Intel/AMD (SSE, AVX) and parallel computing methods. This is a highly optimized architecture for image acquisition and processing. DUO Developers can leverage this framework to build and deploy their own applications.
 
-These samples require the latest SDK from http://duo3d.com/downloads
+These samples require the latest SDK from http://duo3d.com/
 
 --------------------------------
 
@@ -117,7 +117,7 @@ Included with the SDK are several examples to help developers get started. We wi
 
 
 <a href="samples#Sample01"><h3>Capturing Motion Data</h3>
-**Sample 01** - Shows how to capture and debut the DUO minilx motion data.</a>
+**Sample 01** - Shows how to capture and debug the DUO minilx motion data.</a>
 
 <a href="samples#Sample02"><h3>Capturing Image Data</h3>
 **Sample 02** - Shows how to capture the DUO image frame data from CMOS sensors.</a>
@@ -133,58 +133,3 @@ Included with the SDK are several examples to help developers get started. We wi
 
 <a href="samples#Sample06"><h3>Capture frames using polling mechanism (OpenCV)</h3>
 **Sample 06** - Demonstrates polling mechanism and displays captured frames using OpenCV.</a>
-
-
-
---------------------------------
-
-<div class="page-break"></div>	
-
-##Structure
-
-
-<pre class="prettyprint">
-	%DUO_PATH%
-		|   
-		\---DUO3D-SDK
-			|  
-			|           
-			\---Developers
-				|   
-				+---DUOLib
-				|   |   
-				|   +---bin
-				|   |       DUOLib.dll		// DUO Shared Library (Windows)
-				|   |       libduo.so		// DUO Shared Library (Linux)
-				|   |       libduo.dylib	// DUO Shared Library (OSX)
-				|   |       
-				|   +---include
-				|   |       DUOLib.h		// DUO Header Include
-				|   |       
-				|   \---lib
-				|           DUOLib.lib		// DUO Library
-				|           
-				\---Samples
-					|   
-					+---CMakeLists.txt
-				    +---bin
-					|       
-					+---Sample-01
-					|		Sample.h
-					|		Sample.cpp
-					|		CMakeLists.txt
-					|       
-					+---Sample-02
-					|       
-					+---Sample-03
-					|       
-					+---Sample-04
-					|
-					+---Sample-05
-					|
-					+---Sample-06
-					|					
-					\---Sample-** // As we continue to add samples.			
-</pre>		
-	
---------------------------------
