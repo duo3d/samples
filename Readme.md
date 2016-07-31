@@ -1,11 +1,8 @@
-<center>
-<img src="http://duo3d.com/img/800-200-222222-duo3d" width='100%' class="img-responsive" style="max-width:1000px;display:none"/>
-</center>
+#DUO3D Code Samples
 
+![DUO3D](https://duo3d.com/public/media/products/all-duos-1.6.png)
 
-<span style="float:right;font-size:10px;color:#fd6d6d"><i></i><i class="fa fa-warning"></i>
-
-DUO3D-SDK - This may change with updates, please make sure to use the latest examples shipped with our SDK as our build environment is actively updated.</span>
+DUO3D-SDK - This may change with updates, please make sure to use the latest examples shipped with our SDK as our build environment is actively updated.
 
 ##Overview
 
@@ -14,8 +11,6 @@ The DUO SDK provides APIs, examples and tooling for working with multi-view visi
 These samples require the latest SDK from http://duo3d.com/
 
 --------------------------------
-
-
 
 ###Features
 
