@@ -1,4 +1,4 @@
-#DUO3D Code Samples
+#DUO3D SDK Code Samples
 
 ![DUO3D](https://duo3d.com/public/media/products/all-duos-1.6.png)
 
