@@ -77,5 +77,3 @@ Open the terminal and type: `sh ./BuildAll.sh`. The executables will be generate
 ##Help
 
 For more information about code samples please visit [DUO SDK Documentation](https://duo3d.com/docs/articles/sdk) page.
-
-----------------
