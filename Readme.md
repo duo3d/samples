@@ -32,7 +32,7 @@ Here are the key libraries you will interact when working with the SDK:
 
 ##Compilation
 
-We use the cross platform [CMake](http://make.org) tool to generate compiler specific projects. To compile the samples you will need to install the [latest CMake](http://cmake.org/cmake/resources/software.html) and use either the command line or GUI to configure and generate the projects. We also provide examples that use OpenCV which you can download from [their website](http://opencv.org). 
+We use the cross platform [CMake](http://cmake.org) tool to generate compiler specific projects. To compile the samples you will need to install the [latest CMake](http://cmake.org/cmake/resources/software.html) and use either the command line or GUI to configure and generate the projects. We also provide examples that use OpenCV which you can download from [their website](http://opencv.org). 
 
 ###Build Environment
 
