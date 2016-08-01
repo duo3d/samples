@@ -74,6 +74,6 @@ Double-click  or run `BuildAll.cmd` from command prompt. The executables will be
 
 Open the terminal and type: `sh ./BuildAll.sh`. The executables will be generated and placed to `bin` folder. 
 
-##Help
+##Getting Help
 
-For more information about code samples please visit [DUO SDK Documentation](https://duo3d.com/docs/articles/sdk) page.
+For more information about DUO API and code samples please visit [DUO SDK Documentation](https://duo3d.com/docs/articles/sdk) page.
