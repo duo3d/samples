@@ -10,8 +10,6 @@ The DUO SDK provides APIs, examples for working with multi-view vision systems, 
 
 These samples require the latest SDK from http://duo3d.com/
 
---------------------------------
-
 ##Features
 
 * Pure C/C++ API
@@ -24,25 +22,17 @@ These samples require the latest SDK from http://duo3d.com/
 * Robust & stable processing
 * Optimized imaging pipeline
 
---------------------------------
-
 ##Libraries Summary 
 
 Here are the key libraries you will interact when working with the SDK:
-
---------------------------------
 
 * **DUOLib** - The DUO API provides low level access to the DUO device allowing for control, configuration and device information.
 * **Dense3D** - The Dense3D API provides high level access optimized disparity and point cloud extraction for DUO stereo image pair. 
 * **Dense3DMT** - The Dense3DMT API provides high level multi-threaded access optimized disparity and point cloud extraction for DUO stereo image pair. 
 
---------------------------------
-
 ##Compilation
 
 We use the cross platform [CMake](http://make.org) tool to generate compiler specific projects. To compile the samples you will need to install the [latest CMake](http://cmake.org/cmake/resources/software.html) and use either the command line or GUI to configure and generate the projects. We also provide examples that use OpenCV which you can download from [their website](http://opencv.org). 
-
-----------------
 
 ###Build Environment
 
@@ -52,8 +42,6 @@ We use the cross platform [CMake](http://make.org) tool to generate compiler spe
 2) Download and install CMake installer (Select the "Add to the PATH" option)<br/>
 3) Download and extract OpenCV 2.4.10 into C:\Dev\OpenCV\2.4.10<br/>
 4) Add `C:\Dev\OpenCV\2.4.10` to the system PATH variable<br/>
-
-----------------
 
 **OSX:**
 
@@ -66,8 +54,6 @@ We use the cross platform [CMake](http://make.org) tool to generate compiler spe
  * Type 'cd build' and then `sudo make install` commands to install OpenCV<br/>
  * This will install OpenCV into `/usr/local`<br/>
  
-----------------
-
 **Linux:**
 
 1) Install build-essential<br/>
@@ -75,8 +61,6 @@ We use the cross platform [CMake](http://make.org) tool to generate compiler spe
 3) Install `libgtk2.0-dev` <br/>
 4) Download and build OpenCV 2.4.10 from source (similar to OSX)<br/>
 5) Install OpenCV to default path `/usr/local`
-
-----------------
 
 ###Building the Samples
 
